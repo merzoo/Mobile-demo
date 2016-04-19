@@ -1,0 +1,19 @@
+<div class="html chats visible">
+	<div class="tabs-list clearfix">
+		<a href="" class="tab active">Users</a>
+		<a href="" class="tab">Messages</a>
+		<a href="" class="tab">Groups</a>
+	</div>
+	<div class="active-users">
+		<div class="user clearfix {{user.rotate}} animated" ng-repeat="user in userList">
+			<div class="photo pull-left">
+				<img src="{{user.photo}}">
+			</div>
+			<div class="desc pull-left">
+				<p class="name">{{user.name}}</p>
+				<p class="position">{{user.position}}</p>
+			</div>
+			<div class="idle pull-right"><span class={{user.status}}></span></div>
+		</div>
+	</div>
+</div>

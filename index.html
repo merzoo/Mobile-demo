@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>merzoo angular example</title>
+
+	<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+
+	<link rel='stylesheet prefetch' href='style/ionicons.min.css'>
+	<link rel='stylesheet prefetch' href='style/animate.min.css'>
+	<link rel='stylesheet prefetch' href='style/styles.css'>
+</head>
+<body>
+
+	<div class="mobile-wrap">
+		<div class="mobile clearfix">
+			<header></header>
+			<sidebar>
+				<menu></menu>
+			</sidebar>
+			<div class="content">
+				<div ng-view></div>
+			</div>
+			<nav></nav>
+		</div>
+	</div>
+
+	<script src="./lib/require.js" data-main="index"></script>
+</body>
+</html>

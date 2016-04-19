@@ -1,0 +1,44 @@
+[
+	{
+		"name" : "Connor Hartigan",
+		"position" : "Web &amp; UI Designer",
+		"photo": "img/133.jpg",
+		"status": "away",
+		"rotate": "rotateInDownLeft"
+	},
+	{
+		"name" : "acob Lennon",
+		"position" : "Front-End Developer",
+		"photo": "img/132.jpg",
+		"status": "offline",
+		"rotate": "rotateInDownRight"
+	},
+	{
+		"name" : "Didier Mailly",
+		"position" : "Co-Founder",
+		"photo": "img/131.jpg",
+		"status": "away",
+		"rotate": "rotateInDownLeft"
+	},
+	{
+		"name" : "Miguel Cunha Ferreira",
+		"position" : "Sales Manager",
+		"photo": "img/130.jpg",
+		"status": "online",
+		"rotate": "rotateInDownRight"
+	},
+	{
+		"name" : "Eric Yuriev",
+		"position" : "App Developer",
+		"photo": "img/129.jpg",
+		"status": "online",
+		"rotate": "rotateInDownLeft"
+	},
+	{
+		"name" : "Theodore Clark",
+		"position" : "Project Manager",
+		"photo": "img/128.jpg",
+		"status": "online",
+		"rotate": "rotateInDownRight"
+	}
+]

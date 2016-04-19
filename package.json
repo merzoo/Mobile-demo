@@ -1,0 +1,12 @@
+{
+  "name": "angulardemo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index_cy.js",
+  "scripts": {
+    "test": "test demo",
+    "start": "http-server -a 127.0.0.1 -p 8000"
+  },
+  "author": "merzoo",
+  "license": "ISC"
+}
